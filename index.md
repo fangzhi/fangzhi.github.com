@@ -7,7 +7,6 @@ tagline: Supporting tagline
 
 #方志的个人主页
 
-
 ##最新文章：
 
 <ul class="posts">
